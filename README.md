@@ -10,4 +10,4 @@ Threading was also used to show live updates with UI while extraction of informa
 
 API key is required to test program, replce os.getenv("API_KEY") with your API key. 
 
-I then went on to further try 'Agentify' the model, I played around with the LLMs and tried to see if I could get the LLM to do my code for me by parsing all my functions as strings into the model or unsing the API function calling method. I then compared the time it took for all three methods and the results can be seen in the table 'LLM_comparsion_times'.
+I then went on to further try 'Agentify' the model, I played around with the LLMs and tried to see if I could get the LLM to do my code for me by parsing all my functions as strings into the model or unsing the API function calling method. The code can be found in my building_agent notebook. I then compared the time it took for all three methods and the results can be seen in the table 'LLM_comparsion_times'.
